@@ -14,28 +14,36 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz23/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AzizEshpolatov)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2300ADD8.svg?logo=telegram&logoColor=white)](https://t.me/EshpoLatovAziz)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/azizbek_eshpolatov__/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@aziz2311E)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz23/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizEshpolatov)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2300ADD8.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EshpoLatovAziz)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azizbek_eshpolatov__/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aziz2311E)  
 
 ---
 
 ## 💻 Tech Stack:
 
 ### 🌟 **Flutter Developer Core Skills**
-- **Languages**: Dart, Java, Python
-- **Frameworks**: Flutter
-- **State Management**: Bloc, Provider, Riverpod,GetX
+- ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Frameworks**: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- **State Management**: Bloc, Provider, Riverpod, GetX
 - **Flutter Tools**: Custom Widgets, Animations, REST API integration, Firebase
 - **Testing**: Unit Testing, Widget Testing, Integration Testing
 
 ### 🛠️ **Additional Skills**
-- **Languages**: C, C++ (Basic)
-- **Databases**: PostgreSQL, MySQL
-- **Version Control**: Git, GitHub, GitLab
-- **Other Tools**: Swagger, Postman, Docker (Basic)
+- **Languages**: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- **Other Tools**: ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) 
+  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
