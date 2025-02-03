@@ -16,7 +16,7 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz23/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizEshpolatov)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2300ADD8.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eshpolatov_aziz)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2300ADD8.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azizbek_eshpolatov)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azizbek_eshpolatov__/)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aziz2311E)  
 
