@@ -52,5 +52,5 @@ I'm always excited to collaborate on interesting projects and solve complex prob
 
 You can also check my projects on [GitHub](https://github.com/AzizEshpolatov).
 
-Telegram: [@azizbekeshpolatov](https://t.me/azizbek_eshpolatov)
+Telegram: [@azizbek_eshpolatov](https://t.me/azizbek_eshpolatov)
 
