@@ -6,7 +6,7 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 
 ## 💼 About Me:
 - 🔭 I’m currently working on enhancing my Flutter skills and contributing to exciting mobile app projects.
-🌱 I’m learning advanced Dart, deepening my understanding of the language to enhance my Flutter development skills. By focusing on algorithms, I am sharpening my problem-solving abilities and improving my efficiency in building more optimized, high-performance applications.
+- 🌱 I’m learning advanced Dart, deepening my understanding of the language to enhance my Flutter development skills. By focusing on algorithms, I am sharpening my problem-solving abilities and improving my efficiency in building more optimized, high-performance applications.
 - 🛠️ Exploring database management systems like **PostgreSQL** and **MySQL** for more robust app functionality.
 - 💬 Ask me about **Flutter**, **Dart**, or any mobile app development-related topics.
 - 📫 How to reach me: (aziz2311e@gmail.com)
