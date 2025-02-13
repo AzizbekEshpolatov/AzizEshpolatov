@@ -6,7 +6,7 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 
 ## 💼 About Me:
 - 🔭 I’m currently working on enhancing my Flutter skills and contributing to exciting mobile app projects.
-- 🌱 I’m learning advanced backend development with **Python** and **Java**.
+🌱 I’m learning advanced Dart, deepening my understanding of the language to enhance my Flutter development skills. By focusing on algorithms, I am sharpening my problem-solving abilities and improving my efficiency in building more optimized, high-performance applications.
 - 🛠️ Exploring database management systems like **PostgreSQL** and **MySQL** for more robust app functionality.
 - 💬 Ask me about **Flutter**, **Dart**, or any mobile app development-related topics.
 - 📫 How to reach me: (aziz2311e@gmail.com)
@@ -15,11 +15,10 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz23/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizEshpolatov)  
 [![Telegram](https://img.shields.io/badge/Telegram-%2300ADD8.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azizbek_eshpolatov)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azizbek_eshpolatov__/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aziz2311E)  
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FF9C00.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AzizbekEshpolatov/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aziz2311E)
 ---
 
 ## 💻 Tech Stack:
