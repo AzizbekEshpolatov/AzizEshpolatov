@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aziz Eshpolatov!
+# 👋 Hi, I'm Azizbek Eshpolatov!
 
 I'm a passionate **Flutter Developer** with expertise in building high-performance, cross-platform mobile applications using **Flutter** and **Dart**. I also have a foundational knowledge of backend and database technologies, enabling me to create full-stack solutions.
 
