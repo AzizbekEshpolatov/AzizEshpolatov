@@ -48,7 +48,7 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 ### 📫 Let's Connect:
 I'm always excited to collaborate on interesting projects and solve complex problems. Feel free to reach out to me via [email](mailto:azizeshpolatov@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aziz23/).
 
-You can also check my projects on [GitHub](https://github.com/AzizEshpolatov).
+You can also check my projects on [GitHub](https://github.com/AzizEshpolatov)
 
 Telegram: [@azizbek_eshpolatov](https://t.me/azizbek_eshpolatov)
 
