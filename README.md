@@ -45,6 +45,11 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 
 ---
 
+![Azizbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizEshpolatov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizEshpolatov&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzizEshpolatov&theme=radical&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AzizbekEshpolatov?theme=dark&font=Roboto&ext=heatmap)
+
 ### 📫 Let's Connect:
 I'm always excited to collaborate on interesting projects and solve complex problems. Feel free to reach out to me via [email](mailto:azizeshpolatov@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aziz23/).
 
