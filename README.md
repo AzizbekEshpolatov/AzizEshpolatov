@@ -49,39 +49,21 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
 
-### Projects
-## 📱 Published Mobile Apps (Google Play)
-
-Here are some of the apps I worked on as a Flutter developer — fully released on Play Store and actively used in production:
+## 📱 Published Mobile Apps on Google Play and App Store
+Here are some of the real production apps I've worked on and released on the Play Store:
 
 ---
-
-### 🟢 [TPM](https://play.google.com/store/apps/details?id=com.tmp.tmp)
-Smart building & property management app  
-> ✅ Used by 90+ clients  
-> 🏠 Features: QR-based entry, guest access control, complaint submission, payment handling  
-![TPM screenshot](https://play-lh.googleusercontent.com/8t0y9ep9DjprGp1lLDFJm6h_wgW74spJ1IYpeDiG4m5e82n8NofmCVn91Uv4FcUVvA=w1052-h592)
-
+### 🟢 [TPM](https://play.google.com/store/apps/details?id=com.tmp.tmp&hl=en)
+Smart building & property management system  
+Used by 90+ clients for guest access, payment handling, and QR-based entry.
 ---
-
-### 🌿 [Manzara](https://play.google.com/store/apps/details?id=com.manzara)
-Home automation solution  
-> 🌍 Control lighting, temperature, and security remotely  
-> 🔄 Set smart scenarios and rules  
-> 📦 Real-time control and feedback system  
-![Manzara screenshot](https://play-lh.googleusercontent.com/5K9bVvXL97vRJYhPO7KZ5L5g3e-bRkhB2FTmHYZ1aTYJZyaVuk0E0XurYJr3PFCChNs=w1052-h592)
-
+### 🌿 [Manzara](https://play.google.com/store/apps/details?id=com.manzara&hl=en)
+Home automation solution for lighting, temperature, and security control.  
+Includes smart rule engine and real-time feedback.
 ---
-
-### 🟠 Carland Attendance
-Employee attendance tracking app with QR code login  
-> 📲 Offline-first check-in system  
-> 📍 GPS & QR-based validation  
-> 📅 Exportable reports and admin panel  
-
-📸 *[You can upload your own screenshots or banner manually]*
-
----
+### 🟠 [Carland Attendance](https://play.google.com/store/apps/details?id=com.carland.attendance&hl=en)
+Employee attendance app with QR login, GPS validation, and exportable reports.  
+Offline-first design and admin dashboard support.
 
 
 ---
