@@ -48,6 +48,42 @@ I'm a passionate **Flutter Developer** with expertise in building high-performan
 - **Other Tools**: ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) 
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
+
+### Projects
+## 📱 Published Mobile Apps (Google Play)
+
+Here are some of the apps I worked on as a Flutter developer — fully released on Play Store and actively used in production:
+
+---
+
+### 🟢 [TPM](https://play.google.com/store/apps/details?id=com.tmp.tmp)
+Smart building & property management app  
+> ✅ Used by 90+ clients  
+> 🏠 Features: QR-based entry, guest access control, complaint submission, payment handling  
+![TPM screenshot](https://play-lh.googleusercontent.com/8t0y9ep9DjprGp1lLDFJm6h_wgW74spJ1IYpeDiG4m5e82n8NofmCVn91Uv4FcUVvA=w1052-h592)
+
+---
+
+### 🌿 [Manzara](https://play.google.com/store/apps/details?id=com.manzara)
+Home automation solution  
+> 🌍 Control lighting, temperature, and security remotely  
+> 🔄 Set smart scenarios and rules  
+> 📦 Real-time control and feedback system  
+![Manzara screenshot](https://play-lh.googleusercontent.com/5K9bVvXL97vRJYhPO7KZ5L5g3e-bRkhB2FTmHYZ1aTYJZyaVuk0E0XurYJr3PFCChNs=w1052-h592)
+
+---
+
+### 🟠 Carland Attendance
+Employee attendance tracking app with QR code login  
+> 📲 Offline-first check-in system  
+> 📍 GPS & QR-based validation  
+> 📅 Exportable reports and admin panel  
+
+📸 *[You can upload your own screenshots or banner manually]*
+
+---
+
+
 ---
 ### 📫 Let's Connect:
 I'm always excited to collaborate on interesting projects and solve complex problems. Feel free to reach out to me via [email](mailto:azizeshpolatov@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aziz23/).
@@ -55,4 +91,7 @@ I'm always excited to collaborate on interesting projects and solve complex prob
 You can also check my projects on [GitHub](https://github.com/AzizEshpolatov)
 
 Telegram: [@azizbek_eshpolatov](https://t.me/azizbek_eshpolatov)
+
+
+
 
